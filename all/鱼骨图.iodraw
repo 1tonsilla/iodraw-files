@@ -55,12 +55,6 @@
             <mxPoint x="146.45833333333323" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="66.45833333333323" y="340" as="sourcePoint" />
-            <mxPoint x="126.45833333333323" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="27" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="46.458333333333236" y="380" as="sourcePoint" />
@@ -70,7 +64,7 @@
         <mxCell id="37" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="106.45833333333323" y="380" as="sourcePoint" />
-            <mxPoint x="166.45833333333323" y="380" as="targetPoint" />
+            <mxPoint x="150" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="143" value="人" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
@@ -105,26 +99,14 @@
         </mxCell>
         <mxCell id="153" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="310" y="299.99999999999994" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="sourcePoint" />
             <mxPoint x="370.0000000000001" y="299.99999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="154" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="290" y="339.99999999999994" as="sourcePoint" />
-            <mxPoint x="349.9999999999999" y="339.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="155" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="270.0000000000001" y="379.99999999999994" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="sourcePoint" />
             <mxPoint x="330" y="379.99999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="156" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="370.0000000000001" y="299.99999999999994" as="sourcePoint" />
-            <mxPoint x="430" y="299.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="157" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
@@ -169,34 +151,16 @@
             <mxPoint x="645.8333333333331" y="261.52777777777754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="214" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="525.8333333333331" y="301.52777777777754" as="sourcePoint" />
-            <mxPoint x="585.8333333333333" y="301.52777777777754" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="215" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="505.8333333333331" y="341.52777777777754" as="sourcePoint" />
-            <mxPoint x="565.833333333333" y="341.52777777777754" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="216" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="485.8333333333332" y="381.52777777777754" as="sourcePoint" />
+            <mxPoint x="500" y="340" as="sourcePoint" />
             <mxPoint x="545.8333333333331" y="381.52777777777754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="217" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
+        <mxCell id="217" value="缺乏定期的质量控制和审计流程，导致统计数据不准确" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="585.8333333333333" y="301.52777777777754" as="sourcePoint" />
-            <mxPoint x="645.8333333333331" y="301.52777777777754" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="218" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="565.833333333333" y="341.52777777777754" as="sourcePoint" />
-            <mxPoint x="625.8333333333331" y="341.52777777777754" as="targetPoint" />
+            <mxPoint x="620" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="219" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
@@ -222,12 +186,6 @@
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-225" value="&lt;div&gt;信息管理系统可&lt;/div&gt;&lt;div&gt;能存在缺陷，导致&lt;/div&gt;&lt;div&gt;数据收集和统计不&lt;/div&gt;&lt;div&gt;完整或存在误差。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="200" width="410" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7B5PtpAnspwxoxdmOtwh-227" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="330" y="379.99999999999994" as="sourcePoint" />
-            <mxPoint x="390" y="379.99999999999994" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-228" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
