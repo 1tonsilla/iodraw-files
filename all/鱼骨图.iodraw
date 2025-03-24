@@ -67,18 +67,6 @@
             <mxPoint x="106.45833333333323" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="35" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="146.45833333333323" y="300" as="sourcePoint" />
-            <mxPoint x="206.45833333333323" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="36" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="126.45833333333323" y="340" as="sourcePoint" />
-            <mxPoint x="186.45833333333323" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="37" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="106.45833333333323" y="380" as="sourcePoint" />
@@ -169,13 +157,13 @@
             <mxPoint x="605.8333333333331" y="191.52777777777752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="212" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
+        <mxCell id="212" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="7B5PtpAnspwxoxdmOtwh-232">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="565.833333333333" y="227.52777777777752" as="sourcePoint" />
             <mxPoint x="625.8333333333331" y="227.52777777777752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="213" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
+        <mxCell id="213" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1" target="7B5PtpAnspwxoxdmOtwh-233">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="585.8333333333333" y="261.52777777777754" as="sourcePoint" />
             <mxPoint x="645.8333333333331" y="261.52777777777754" as="targetPoint" />
@@ -252,6 +240,12 @@
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-231" value="&lt;div&gt;病情评估和危重病&lt;/div&gt;&lt;div&gt;例识别的标准可能&lt;/div&gt;&lt;div&gt;不够明确或未得到严格执行&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="80" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-232" value="&lt;div&gt;缺乏有效的沟通和&lt;/div&gt;&lt;div&gt;协作机制，导致信息在科&lt;/div&gt;&lt;div&gt;室间传递不畅。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-233" value="&lt;div&gt;培训和教育体系可能不完善，&lt;/div&gt;&lt;div&gt;未能提供足够的支持帮助医生提高识别能力&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595.83" y="210" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
