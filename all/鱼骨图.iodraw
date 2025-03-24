@@ -109,12 +109,6 @@
             <mxPoint x="349.9999999999999" y="225.99999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="150" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1" target="7B5PtpAnspwxoxdmOtwh-221" source="7B5PtpAnspwxoxdmOtwh-221">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="330" y="189.99999999999991" as="sourcePoint" />
-            <mxPoint x="390" y="189.99999999999991" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="152" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;entryX=0.605;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="7B5PtpAnspwxoxdmOtwh-224">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="370.0000000000001" y="259.99999999999994" as="sourcePoint" />
@@ -245,7 +239,7 @@
           <mxGeometry x="-30" y="140" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-220" value="&lt;div&gt;医护人员工作压力&lt;/div&gt;&lt;div&gt;大，可能导致注意力分&lt;/div&gt;&lt;div&gt;散，忽视了病情的严重性&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="190" width="430" height="40" as="geometry" />
+          <mxGeometry x="630" y="40" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-222" value="&lt;div&gt;医生可能缺乏&lt;/div&gt;&lt;div&gt;对危重病例识别&lt;/div&gt;&lt;div&gt;的专业知识和经验&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="131.53" width="290" height="40" as="geometry" />
@@ -270,6 +264,9 @@
             <mxPoint x="317.5" y="139.99999999999994" as="sourcePoint" />
             <mxPoint x="364.5" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-229" value="&lt;div&gt;诊断设备可能不&lt;/div&gt;&lt;div&gt;够先进或者维护不&lt;/div&gt;&lt;div&gt;当，导致无法准确诊&lt;/div&gt;&lt;div&gt;断患者的危重程度&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="120" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
