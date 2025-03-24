@@ -163,25 +163,7 @@
             <mxPoint x="595.8333333333331" y="281.52777777777754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="208" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="485.8333333333332" y="191.52777777777752" as="sourcePoint" />
-            <mxPoint x="545.8333333333331" y="191.52777777777752" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="209" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="505.8333333333331" y="227.52777777777752" as="sourcePoint" />
-            <mxPoint x="565.833333333333" y="227.52777777777752" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="210" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="525.8333333333331" y="261.52777777777754" as="sourcePoint" />
-            <mxPoint x="585.8333333333333" y="261.52777777777754" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="211" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
+        <mxCell id="211" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="7B5PtpAnspwxoxdmOtwh-222">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="545.8333333333331" y="191.52777777777752" as="sourcePoint" />
             <mxPoint x="605.8333333333331" y="191.52777777777752" as="targetPoint" />
@@ -239,16 +221,16 @@
           <mxGeometry x="-30" y="140" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-220" value="&lt;div&gt;医护人员工作压力&lt;/div&gt;&lt;div&gt;大，可能导致注意力分&lt;/div&gt;&lt;div&gt;散，忽视了病情的严重性&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="40" width="430" height="40" as="geometry" />
+          <mxGeometry x="370" y="190" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-222" value="&lt;div&gt;医生可能缺乏&lt;/div&gt;&lt;div&gt;对危重病例识别&lt;/div&gt;&lt;div&gt;的专业知识和经验&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="131.53" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-221" value="&lt;div&gt;透析设备可能存在&lt;/div&gt;&lt;div&gt;性能问题，影响了透&lt;/div&gt;&lt;div&gt;析患者的治疗质量和病情评估&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="390" height="40" as="geometry" />
+          <mxGeometry x="140" y="140" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-224" value="&lt;div&gt;患者及家属可能未&lt;/div&gt;&lt;div&gt;能及时提供关键&lt;/div&gt;&lt;div&gt;信息，影响了病情的准确评估。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="210" width="380" height="40" as="geometry" />
+          <mxGeometry x="200" y="210" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-225" value="&lt;div&gt;信息管理系统可&lt;/div&gt;&lt;div&gt;能存在缺陷，导致&lt;/div&gt;&lt;div&gt;数据收集和统计不&lt;/div&gt;&lt;div&gt;完整或存在误差。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="200" width="410" height="40" as="geometry" />
@@ -267,6 +249,9 @@
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-229" value="&lt;div&gt;诊断设备可能不&lt;/div&gt;&lt;div&gt;够先进或者维护不&lt;/div&gt;&lt;div&gt;当，导致无法准确诊&lt;/div&gt;&lt;div&gt;断患者的危重程度&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="120" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-231" value="&lt;div&gt;病情评估和危重病&lt;/div&gt;&lt;div&gt;例识别的标准可能&lt;/div&gt;&lt;div&gt;不够明确或未得到严格执行&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
