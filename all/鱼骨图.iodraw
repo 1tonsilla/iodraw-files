@@ -115,7 +115,7 @@
             <mxPoint x="390" y="189.99999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="152" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
+        <mxCell id="152" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;entryX=0.605;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="7B5PtpAnspwxoxdmOtwh-224">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="370.0000000000001" y="259.99999999999994" as="sourcePoint" />
             <mxPoint x="430" y="259.99999999999994" as="targetPoint" />
@@ -149,12 +149,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="349.9999999999999" y="339.99999999999994" as="sourcePoint" />
             <mxPoint x="410" y="339.99999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="158" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="330" y="379.99999999999994" as="sourcePoint" />
-            <mxPoint x="390" y="379.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="204" value="法" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
@@ -251,7 +245,7 @@
           <mxGeometry x="-30" y="140" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-220" value="&lt;div&gt;医护人员工作压力&lt;/div&gt;&lt;div&gt;大，可能导致注意力分&lt;/div&gt;&lt;div&gt;散，忽视了病情的严重性&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="180" width="430" height="40" as="geometry" />
+          <mxGeometry x="370" y="190" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-222" value="&lt;div&gt;医生可能缺乏&lt;/div&gt;&lt;div&gt;对危重病例识别&lt;/div&gt;&lt;div&gt;的专业知识和经验&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="131.53" width="290" height="40" as="geometry" />
@@ -260,7 +254,10 @@
           <mxGeometry x="150" y="150" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7B5PtpAnspwxoxdmOtwh-224" value="&lt;div&gt;患者及家属可能未&lt;/div&gt;&lt;div&gt;能及时提供关键&lt;/div&gt;&lt;div&gt;信息，影响了病情的准确评估。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="380" height="40" as="geometry" />
+          <mxGeometry x="190" y="210" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-225" value="&lt;div&gt;信息管理系统可&lt;/div&gt;&lt;div&gt;能存在缺陷，导致&lt;/div&gt;&lt;div&gt;数据收集和统计不&lt;/div&gt;&lt;div&gt;完整或存在误差。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="200" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
