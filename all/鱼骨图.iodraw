@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="1418" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2244" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="机" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="36.458333333333236" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="69.99833333333324" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="测" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="36.458333333333236" y="400" width="120" height="60" as="geometry" />
@@ -33,8 +33,8 @@
         </mxCell>
         <mxCell id="16" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="46.458333333333236" y="190" as="sourcePoint" />
-            <mxPoint x="106.45833333333323" y="190" as="targetPoint" />
+            <mxPoint x="79.99833333333324" y="169" as="sourcePoint" />
+            <mxPoint x="139.99833333333322" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="18" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
@@ -258,6 +258,12 @@
             <mxPoint x="545.8333333333331" y="381.52777777777754" as="sourcePoint" />
             <mxPoint x="605.8333333333331" y="381.52777777777754" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-219" value="&lt;div&gt;诊断设备可能不够先进或&lt;/div&gt;&lt;div&gt;者维护不当，导致无&lt;/div&gt;&lt;div&gt;法准确诊断患者的危重程度。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="140" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7B5PtpAnspwxoxdmOtwh-220" value="诊断设备可能不够先进或者维护不当，导致无法准确诊断患者的危重程度。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
