@@ -97,16 +97,16 @@
             <mxPoint x="430" y="259.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="153" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;exitX=0.909;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="7B5PtpAnspwxoxdmOtwh-237">
+        <mxCell id="153" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;exitX=0.909;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="300" y="310" as="sourcePoint" />
-            <mxPoint x="370" y="310" as="targetPoint" />
+            <mxPoint x="312.9899999999998" y="375" as="sourcePoint" />
+            <mxPoint x="373" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="157" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="370" y="380" as="sourcePoint" />
-            <mxPoint x="410" y="339.99999999999994" as="targetPoint" />
+            <mxPoint x="361" y="380" as="sourcePoint" />
+            <mxPoint x="401" y="339.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="204" value="法" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
@@ -143,12 +143,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="585.8333333333333" y="261.52777777777754" as="sourcePoint" />
             <mxPoint x="645.8333333333331" y="261.52777777777754" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="216" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="500" y="340" as="sourcePoint" />
-            <mxPoint x="545.8333333333331" y="381.52777777777754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="217" value="缺乏定期的质量&#xa;控制和审计流程，导致统计数据不准确" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
